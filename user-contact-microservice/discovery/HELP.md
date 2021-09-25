@@ -13,3 +13,7 @@ The following guides illustrate how to use some features concretely:
 
 * [Service Registration and Discovery with Eureka and Spring Cloud](https://spring.io/guides/gs/service-registration-and-discovery/)
 
+### Discovery Server will run on:
+* hostname: localhost
+* port: 9761 
+#### (Or update application.yml for customization)
